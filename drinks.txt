@@ -1,0 +1,10 @@
+coffee
+tea
+pepsi
+sprite
+milk
+chocolate milk
+orange juice
+apple juice
+peach juice
+water
